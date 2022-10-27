@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, Zhejiang University (ZJU), 2013-2017
+* Ph.D in Traffic and Transportation Engineering, The University of Hong Kong (HKU), 2017-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2022 - To date: AI Computer Vision/Image Processing Algorithm Engineer
+  * Central Media Technology Institute, 2012 Lab, Huawei Technologies
+  * Focusing on researches and applications of deep learning, computational photography, image signal processing and low-level computer vision.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nov 2021 - Sep 2022: Research Engineer
+  * Central Research Institute, 2012 Lab, Huawei Technologies
+  * Focusing researches and applications of simulation and optimization of intelligent transportations systems, traffic management and control with traffic big data.
+
+* Summer 2016: Research Assistant ([HKU Civil Centennial Future Scholars](https://www.civil.hku.hk/hkuccfs/))
+  * The University of Hong Kong
+  * HKU Civil Centennial Future Scholars-CCFS, research internship at The University of Hong Kong, research focused on the travelling behaviors and patterns of tourists in Hong Kong.
+  * Supervisor: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
 
 Publications
 ======
@@ -54,6 +47,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer
+  * IEEE Transactions on Intelligent Transportation Systems
