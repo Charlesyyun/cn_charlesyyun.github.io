@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Yun (Charles) YE / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yun (Charles) YE"
+description              : &description "Hi, welcome to my page! I am Yun (Charles) YE. I received my Doctor's degree from The University of Hong Kong under the supervision of Prof. S.C. Wong in 2021. Prior to that, I received my Bachelor's degree from Zhejiang University in 2017 under the supervision of Prof. Xiqun (Michael) Chen. Currently, I am a research engineer at 2012 Lab of Huawei Technologies Co., Ltd. My research interests focus on AI-Driven Intelligent Traffic Systems, include virtual reality, computer vision, data mining, road safety, and simulation-based optimization. "
+url                      : https://charlesyyun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "charlesyyun/charlesyyun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yun (Charles) YE"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Hi, welcome to my page! I am Yun (Charles) YE. I received my Doctor's degree from The University of Hong Kong under the supervision of Prof. S.C. Wong in 2021. Prior to that, I received my Bachelor's degree from Zhejiang University in 2017 under the supervision of Prof. Xiqun (Michael) Chen. Currently, I am a research engineer at 2012 Lab of Huawei Technologies Co., Ltd. My research interests focus on AI-Driven Intelligent Traffic Systems, include virtual reality, computer vision, data mining, road safety, and simulation-based optimization. "
+  location         : "Huawei Bantian Base, Longgang District, Shenzhen, Guangdong, China"
+  employer         : "Huawei Technologies"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=K66K8KAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yun-Ye-5" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Charlesyyun"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3346-4640"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
