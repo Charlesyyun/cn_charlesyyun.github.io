@@ -1,7 +1,7 @@
 ---
 title: "Risks to pedestrians in traffic systems with unfamiliar driving rules: a virtual reality approach"
 collection: publications
-permalink: /publication/2020-07-01-vr-pedestrian.md
+permalink: /publication/2020-07-01-vr-pedestrian
 date: 2020-07-01
 venue: 'Accident Analysis & Prevention'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0001457519315404'
