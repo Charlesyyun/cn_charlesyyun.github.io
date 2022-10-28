@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yun (Charles) YE / Homepage"
+title                    : "Dr. Yun (Charles) YE"
 title_separator          : "-"
 name                     : &name "Yun (Charles) YE"
 description              : &description "Research Engineer at Central Media Technology Institute, 2012 Lab, Huawei Technologies"
@@ -83,8 +83,8 @@ author:
   name             : "Yun (Charles) YE"
   avatar           : "profile.png"
   bio              : "AI Computer Vision/Image Processing Algorithm Engineer"
-  location         : "Huawei Technologies, Shenzhen, Guangdong, China"
-  employer         :
+  location         :
+  employer         : "Huawei Technologies"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=K66K8KAAAAAJ&hl=en"
   email            :
