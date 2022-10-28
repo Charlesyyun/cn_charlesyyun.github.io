@@ -22,7 +22,7 @@ Work experience
 
 * Nov 2021 - Sep 2022: Research Engineer
   * Central Research Institute, 2012 Lab, Huawei Technologies
-  * Focusing researches and applications of simulation and optimization of intelligent transportations systems, traffic management and control with traffic big data.
+  * Focusing on researches and applications of simulation and optimization of intelligent transportations systems, traffic management and control with traffic big data.
 
 * Summer 2016: Research Assistant ([HKU Civil Centennial Future Scholars](https://www.civil.hku.hk/hkuccfs/))
   * The University of Hong Kong
