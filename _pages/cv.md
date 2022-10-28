@@ -35,9 +35,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.conferences %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Patents
+======
+  <ul>{% for post in site.patents %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
