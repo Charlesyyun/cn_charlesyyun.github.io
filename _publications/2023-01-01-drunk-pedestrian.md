@@ -1,7 +1,7 @@
 ---
 title: "Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules"
 collection: publications
-permalink: /publication/2023-01-01-drunk-pedestrian.md
+permalink: /publication/2023-01-01-drunk-pedestrian
 date: 2023-01-01
 venue: 'Safety Science'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925753522002636'
