@@ -1,7 +1,7 @@
 ---
 title: "Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules"
 collection: publications
-permalink: /publication/2021-02-01-look-habit.md
+permalink: /publication/2021-02-01-look-habit
 date: 2021-02-01
 venue: 'Accident Analysis & Prevention'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0001457520317413'
