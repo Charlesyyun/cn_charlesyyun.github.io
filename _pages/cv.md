@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Civil Engineering, Zhejiang University (ZJU), 2013-2017
+* B.Eng. in Civil Engineering, Zhejiang University (ZJU), 2013-2017
 * Ph.D in Traffic and Transportation Engineering, The University of Hong Kong (HKU), 2017-2021
 
 Work experience
