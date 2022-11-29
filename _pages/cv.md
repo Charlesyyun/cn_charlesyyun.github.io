@@ -57,3 +57,8 @@ Service
 ======
 * Journal Reviewer
   * IEEE Transactions on Intelligent Transportation Systems
+* Membership
+  * IEEE Member
+  * IEEE Intelligent Transportation Systems Society Member
+  * IEEE Signal Processing Society Member
+  * IEEE Vehicular Technology Society Member
