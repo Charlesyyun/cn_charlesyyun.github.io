@@ -15,7 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+
 # Projects
+
   * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022-2023)
   * Smart scheduling algorithm for electric buses (Co-PI, Huawei Techonologies Co., Ltd., 2021-2023)
   * Risks to pedestrians of crossing in a traffic system with different driving rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018-2020)
