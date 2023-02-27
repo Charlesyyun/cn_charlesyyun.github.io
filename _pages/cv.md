@@ -57,6 +57,7 @@ Service
 ======
 * Journal Reviewer
   * IEEE Transactions on Intelligent Transportation Systems
+  * Journal of Transportation Safety & Security
 * Membership
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
