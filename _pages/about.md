@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yun (Charles) YE is a research engineer at 2012 Lab of [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/), his research interests focus on AI-Driven Intelligent Traffic Systems, include virtual reality, computer vision, data mining, road safety, and simulation-based optimization. He received his Doctor's degree from The University of Hong Kong under the supervision of [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/) in 2021. Prior to that, he received my Bachelor's degree from Zhejiang University in 2017 under the supervision of [Prof. Xiqun (Michael) Chen](https://person.zju.edu.cn/xiqun).
+Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Transportation, Ningbo University (NBU). Dr. YE received his B.E. and Ph. D. degree from Zhejiang University (ZJU) and the University of Hong Kong (HKU), in 2017 and 2021, respectively. During 2021-2023, he served as research engineer at Central Research Institute and Central Media Technology Institute, 2012 Lab, [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/). Prof. YE was an awardee of Zhejiang East Backbone Talent by Ningbo University, and Civil Centennial Future Scholars by the University of Hong Kong. 
 
 # Mailing Address
 <address>
-  Central Media Technology Institute<br /> 2012 Lab, Huawei Techonologies Co., Ltd.<br /> Section B1, Huawei Industrial Base<br /> Bantian, Longgang District<br /> Shenzhen 518129, China
+  Faculty of Maritime and Transportation, Ningbo University (NBU) <br /> No. 818 Fenghua Rd., Jiangbei District <br /> Ningbo 315211, China
 </address>
