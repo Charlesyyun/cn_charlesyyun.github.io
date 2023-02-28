@@ -12,5 +12,5 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
 
 # Mailing Address
 <address>
-  Faculty of Maritime and Transportation, Ningbo University (NBU) <br /> No. 818 Fenghua Rd., Jiangbei District <br /> Ningbo 315211, China
+  Faculty of Maritime and Transportation <br /> Ningbo University (NBU) <br /> No. 818 Fenghua Rd., Jiangbei District <br /> Ningbo 315211, China
 </address>
