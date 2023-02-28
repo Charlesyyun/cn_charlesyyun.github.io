@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yun (Charles) YE"
+title                    : "Prof. Yun (Charles) YE"
 title_separator          : "-"
 name                     : &name "Yun (Charles) YE"
-description              : &description "Research Engineer at Central Media Technology Institute, 2012 Lab, Huawei Technologies"
+description              : &description "Associate Professor, Faculty of Maritime and Transportation, Ningbo University"
 url                      : https://charlesyyun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlesyyun/charlesyyun.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yun (Charles) YE"
   avatar           : "profile.png"
-  bio              : "AI Computer Vision/Image Processing Algorithm Engineer"
+  bio              : "Associate Professor"
   location         :
-  employer         : "Huawei Technologies"
+  employer         : "Ningbo University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=K66K8KAAAAAJ&hl=en"
   email            :
