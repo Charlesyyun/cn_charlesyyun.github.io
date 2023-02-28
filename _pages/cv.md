@@ -14,9 +14,13 @@ Education
 * B.Eng. in Civil Engineering, Zhejiang University (ZJU), 2013-2017
 * Ph.D in Traffic and Transportation Engineering, The University of Hong Kong (HKU), 2017-2021
 
-Work experience
+Professional Experience
 ======
-* Sep 2022 - To date: AI Computer Vision/Image Processing Algorithm Engineer
+* Mar 2023 - Present: Associate Professor 
+  * Zhejiang East Backbone Talent
+  * Faculty of Maritime and Transportation, Ningbo University (NBU)
+
+* Sep 2022 - Feb 2023: AI Computer Vision/Image Processing Algorithm Engineer
   * Central Media Technology Institute, 2012 Lab, Huawei Technologies
   * Focusing on researches and applications of deep learning, computational photography, image signal processing and low-level computer vision.
 
