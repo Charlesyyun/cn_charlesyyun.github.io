@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Transportation, Ningbo University (NBU). Dr. YE received his B.E. and Ph. D. degree from Zhejiang University (ZJU) and the University of Hong Kong (HKU), in 2017 and 2021, respectively. During 2021-2023, he served as research engineer at Central Research Institute and Central Media Technology Institute, 2012 Lab, [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/). Prof. YE was an awardee of Zhejiang East Backbone Talent by Ningbo University, and Civil Centennial Future Scholars by the University of Hong Kong. 
+Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Transportation, [Ningbo University](https://www.nbu.edu.cn/) (NBU). Dr. YE received his B.E. and Ph. D. degree from [Zhejiang University](https://www.zju.edu.cn/) (ZJU) and [The University of Hong Kong](https://www.hku.hk/) (HKU), in 2017 and 2021, respectively. During 2021-2023, he served as research engineer at Central Research Institute and Central Media Technology Institute, 2012 Lab, [Huawei Technologies Co., Ltd.](https://www.huawei.com/cn/). Prof. YE was an awardee of Zhejiang East Backbone Talent by Ningbo University, and Civil Centennial Future Scholars by the University of Hong Kong. 
 
 # Research Interests
  * VR/AR-based Simulation
