@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yun (Charles) YE"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yun (Charles) YE"
 description              : &description "Associate Professor, Faculty of Maritime and Transportation, Ningbo University"
