@@ -24,3 +24,4 @@ author_profile: true
   * Risks to pedestrians of crossing in a traffic system with different driving rules (GRA, General Research Fund, Research Grants Council, Hong Kong SAR Government, Project No. 17203017, 2018-2020)
   * Multi-user voice-driven BIM-based navigation system for fire emergency response (GRA, U21 Graduate Collaborative Research Awards, Universitas 21, 2018-2019)
   * Traffic Flow Modeling and Operational Strategies Optimization for Urban Transportation Corridor Simulations (GRA, National Natural Science Foundation of China, China, Project No. 51508505, 2016-2018)
+  * Traffic Simulation and Integrated Control Optimization Strategy for the Main Urban Road Network of Hangzhou (GRA, Zhejiang Intelligent Transportation Engineering Technology Research Center, 2015-2016)
