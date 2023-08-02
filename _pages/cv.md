@@ -62,6 +62,7 @@ Service
 * Journal Reviewer
   * IEEE Transactions on Intelligent Transportation Systems
   * Journal of Transportation Safety & Security
+  * Transportmetrica A: Transport Science
 * Membership
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
