@@ -20,7 +20,7 @@ Education
 Professional Experience
 ======
 * Mar 2023 - Present: Associate Professor 
-  * Zhejiang East Backbone Talent
+  * Yue-Kong Pao Young Top Scholar
   * Faculty of Maritime and Transportation, Ningbo University (NBU)
 
 * Sep 2022 - Feb 2023: AI Computer Vision/Image Processing Algorithm Engineer
