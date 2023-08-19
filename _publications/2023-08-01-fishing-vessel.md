@@ -1,5 +1,5 @@
 ---
-title: "Identification of Risk Influential Factors for Fishing Vessel Accident using Claims Data from Fisheries Mutual Insurance Association"
+title: "Identification of risk influential factors for fishing vessel accident using claims data from fisheries mutual insurance association"
 collection: publications
 permalink: /publication/2023-08-01-fishing-vessel
 date: 2023-08-01
