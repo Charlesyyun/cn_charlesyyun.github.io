@@ -20,9 +20,9 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
 # Selected Publications
 ## Journal Papers
  * Wang, F., Du, W., Feng, H., **Ye, Y.**, Griffoll, M., Liu, G., & Zheng, P. (2023). Identification of risk influential factors for fishing vessel accident using claims data from fisheries mutual insurance association. *Sustainability*, in press. (SCI/SSCI, JCR Q2)
- * **Ye, Y.**, Wong, S.C., Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. (SCI, JCR Q1)
- * **Ye, Y.**, Wong, S.C., Meng, F., & Xu, P. (2021). "Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules." *Accident Analysis & Prevention*, 150, 105921. (SSCI, JCR Q1, Top)
- * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). "Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach." *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top)
+ * **Ye, Y.**, Wong, S.C., Li, Y.C., & Choi, K.M. (2023). [Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules](https://www.sciencedirect.com/science/article/pii/S0925753522002636). *Safety Science*, 157, 105924. (SCI, JCR Q1)
+ * **Ye, Y.**, Wong, S.C., Meng, F., & Xu, P. (2021). [Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules](https://www.sciencedirect.com/science/article/pii/S0001457520317413). *Accident Analysis & Prevention*, 150, 105921. (SSCI, JCR Q1, Top)
+ * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://www.sciencedirect.com/science/article/pii/S0001457519315404). *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top)
 
 ## Conference Papers and Presentations
  * Liang, H., **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024. [under review]
@@ -30,7 +30,11 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
  * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2019) Risks to pedestrians in traffic systems with unfamiliar driving rules. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 14-16, 2019. [Oral Presentation]
  * **Ye, Y.**, Chen, X. (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018. [Poster Presentation]
  * Chen, X., Zhang, S., Shen, K., **Ye, Y.** & Sun, W. (2016) Big Data Driven Simulation-Based Dynamic Traffic Assignment and Empirical Studies. *The 11th Annual Conference of ITS China*, Chongqing, China, November 16-18, 2016. [Best Paper Award]
-   
+
+## Theses
+ * **Ye, Y.** (2021). Pedestrian Crossing Behavior in Areas with Unfamiliar Driving Rules. Ph.D. Thesis, The University of Hong Kong.
+ * **Ye, Y.** (2017). Simulation-Based Optimization for Time-of-Day Coordinated Ramp Metering of a Large-Scale Urban Expressway Network. B.Eng. Thesis, Zhejiang University.
+
 # Mailing Address
 <address>
   Faculty of Maritime and Transportation <br /> Ningbo University (NBU) <br /> No. 818 Fenghua Rd., Jiangbei District <br /> Ningbo 315211, China
