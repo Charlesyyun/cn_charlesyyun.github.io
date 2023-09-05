@@ -16,6 +16,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
  * Pedestrian Behaviors
  * Road Safety
  * Pedestrian-AVs Interaction
+
    
 # Selected Publications
 ## Journal Papers
@@ -34,6 +35,7 @@ Dr. Yun (Charles) YE is an Associate Professor in the Faculty of Maritime and Tr
 ## Theses
  * **Ye, Y.** (2021). Pedestrian Crossing Behavior in Areas with Unfamiliar Driving Rules. Ph.D. Thesis, The University of Hong Kong.
  * **Ye, Y.** (2017). Simulation-Based Optimization for Time-of-Day Coordinated Ramp Metering of a Large-Scale Urban Expressway Network. B.Eng. Thesis, Zhejiang University.
+
 
 # Mailing Address
 <address>
