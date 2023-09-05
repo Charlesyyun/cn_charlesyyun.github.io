@@ -19,6 +19,7 @@ author_profile: true
 
 # Projects
 
+  * Virtual Reality-based Study of Pedestrian-Vehicle Interaction Behavior and Risk in Port Automated Driving Environment (PI, Ningbo Yongjiang Talent Project Young Innovative Talent Program, Ningbo Government, 2024-2028)
   * Human-Vehicle Interaction Safety in Port Road Areas under Autonomous Driving Conditions (PI, Ningbo University, 2023-2026)
   * Urban Intersection Holographic Perception Layout and Control Strategy (Co-PI, Huawei Techonologies Co., Ltd., 2022-2023)
   * Smart Scheduling Algorithm for Electric Buses (Co-PI, Huawei Techonologies Co., Ltd., 2021-2023)
