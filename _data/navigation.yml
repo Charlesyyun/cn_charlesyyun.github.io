@@ -1,19 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "科研成果"
     url: /publications/
 
-  - title: "Conferences"
+  - title: "学术会议"
     url: /conferences/    
 
-  - title: "Teaching"
+  - title: "课程教学"
     url: /teaching/    
     
-  - title: "Patents"
+  - title: "研发专利"
     url: /patents/
     
-  - title: "Blog Posts"
+  - title: "新闻博客"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "个人简历"
     url: /cv/
+    
+  - title: "English"
+    url: "https://charlesyyun.github.io"
