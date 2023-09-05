@@ -9,64 +9,66 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* Ph.D in Traffic and Transportation Engineering, The University of Hong Kong (HKU), 2017-2021
-  * Supervisor: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
+* 哲学博士, 交通与运输工程，香港大学土木工程系, 2017-2021
+  * 导师: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
 
-* B.Eng. in Civil Engineering, Zhejiang University (ZJU), 2013-2017
-  * Supervisor: [Prof. Xiqun (Michael) Chen](https://person.zju.edu.cn/en/xiqun)
+* 工学学士，土木工程，浙江大学建筑工程学院, 2013-2017
+  * 导师: [陈喜群教授](https://person.zju.edu.cn/en/xiqun)
 
-Professional Experience
+工作经历
 ======
-* Mar 2023 - Present: Associate Professor 
-  * Yue-Kong Pao Young Top Scholar
-  * Faculty of Maritime and Transportation, Ningbo University (NBU)
+* 2023年3月 - 至今: 副教授
+  * 宁波大学海运学院
+  * 宁波市甬江人才（青年创新人才）
+  * 宁波市北仑区青年创新人才
+  * 宁波大学包玉刚青年拔尖人才
 
-* Sep 2022 - Feb 2023: AI Computer Vision/Image Processing Algorithm Engineer
-  * Central Media Technology Institute, 2012 Lab, Huawei Technologies
-  * Focusing on researches and applications of deep learning, computational photography, image signal processing and low-level computer vision.
+* 2022年9月 - 2023年2月: 图像处理算法工程师
+  * 华为2012实验室中央媒体技术院
+  * 从事深度学习、计算摄影、图像信号处理和low-level计算机视觉的研究和应用
 
-* Nov 2021 - Sep 2022: Research Engineer
-  * Central Research Institute, 2012 Lab, Huawei Technologies
-  * Focusing on researches and applications of simulation and optimization of intelligent transportations systems, traffic management and control with traffic big data.
+* 2021年11月 - 2022年9月: 研究工程师
+  * 华为2012实验室中央研究院
+  * 从事智能交通系统的仿真和优化，以及基于交通大数据的交通管理和控制的研究和应用
 
-* Summer 2016: Research Assistant ([HKU Civil Centennial Future Scholars](https://www.civil.hku.hk/hkuccfs/))
-  * The University of Hong Kong
-  * HKU Civil Centennial Future Scholars-CCFS, research internship at The University of Hong Kong, research focused on the travelling behaviors and patterns of tourists in Hong Kong.
-  * Supervisor: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
+* 2016年7月: 研究助理 ([港大百年土木未来学者](https://www.civil.hku.hk/hkuccfs/))
+  * 香港大学土木工程系
+  * 入选港大百年土木未来学者计划，参与香港游客的旅行行为和模式研究
+  * 导师: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
 
-Publications
+期刊与学位论文
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conferences
+会议论文与演讲
 ======
   <ul>{% for post in site.conferences %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Patents
+发明专利
 ======
   <ul>{% for post in site.patents %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+教学经历
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service
+社会服务
 ======
-* Journal Reviewer
+* 期刊审稿人
   * IEEE Transactions on Intelligent Transportation Systems
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
-* Membership
+* 国际学术组织任职
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
   * IEEE Signal Processing Society Member
