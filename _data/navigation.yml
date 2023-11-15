@@ -6,13 +6,13 @@ main:
   - title: "学术会议"
     url: /conferences/    
 
-  - title: "课程教学"
+  - title: "教学"
     url: /teaching/    
     
-  - title: "研发专利"
+  - title: "专利"
     url: /patents/
     
-  - title: "新闻博客"
+  - title: "动态"
     url: /year-archive/
     
   - title: "个人简历"
