@@ -12,7 +12,7 @@ redirect_from:
 教育背景
 ======
 * 哲学博士, 交通与运输工程，香港大学土木工程系, 2017-2021
-  * 导师: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
+  * 导师: [黃仕進教授](https://www.civil.hku.hk/scwong/)
 
 * 工学学士，土木工程，浙江大学建筑工程学院, 2013-2017
   * 导师: [陈喜群教授](https://person.zju.edu.cn/en/xiqun)
