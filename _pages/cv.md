@@ -36,7 +36,7 @@ redirect_from:
 * 2016年7月: 研究助理 ([港大百年土木未来学者](https://www.civil.hku.hk/hkuccfs/))
   * 香港大学土木工程系
   * 入选港大百年土木未来学者计划，参与香港游客的旅行行为和模式研究
-  * 导师: [Prof. S.C. Wong](https://www.civil.hku.hk/scwong/)
+  * 导师: [黃仕進教授](https://www.civil.hku.hk/scwong/)
 
 期刊与学位论文
 ======
