@@ -13,7 +13,7 @@ name                     : &name "叶韫"
 description              : &description "宁波大学海运学院，副教授，硕士生导师"
 url                      : https://cn_charlesyyun.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "charlesyyun/cn_charlesyyun.github.io"
+repository               : "charlesyyun/cn-Charlesyyun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
