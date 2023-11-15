@@ -10,6 +10,11 @@ redirect_from:
 
 叶韫，男，[宁波大学](https://www.nbu.edu.cn/) (NBU) 海运学院副教授，硕士生导师。荣获宁波甬江人才工程青年创新人才项目，入选宁波市拔尖人才、宁波大学包玉刚青年拔尖人才、香港大学百年土木未来学者。2013-2021年，曾先后在[浙江大学](https://www.zju.edu.cn/) (ZJU) 和[香港大学](https://www.hku.hk/) (HKU) 学习和研究，获得工学学士和博士学位，长期从事交通安全与行为方向研究，研究成果在交通安全顶级期刊Accident Analysis & Prevention/Safety Science等期刊及中国智能交通年会/美国TRB年会/香港HKSTS年会等国内国际学术会议发表。2021-2023 年，在[华为技术有限公司](https://www.huawei.com/cn/) 2012 实验室中央研究院和中央媒体技术研究所担任高级研究工程师，先后从事智慧交通系统仿真优化和华为终端计算摄影技术研究工作。主持宁波市甬江人才工程青年创新人才项目、宁波市北仑区青年创新人才项目、宁波大学人才引进启动项目、华为技术有限公司技术课题等，参与浙江省智能交通工程技术研究中心开放课题、国家自然科学基金青年科学基金项目、香港研究资助局面上项目、U21大学联盟项目等多项研究项目。担任IEEE Transactions on Intelligent Transportation Systems/Journal of Transportation Safety & Security/Transportmetrica A: Transport Science等SCI/SSCI期刊审稿人，IEEE/IEEE Intelligent Transportation Systems Society/IEEE Signal Processing Society/IEEE Vehicular Technology Society等国际学术组织会员。
 
+# 教育经历
+ * 2017.09-2021.09，博士，[香港大学](https://www.hku.hk/)，交通运输工程
+ * 2013.09-2017.07，学士，[浙江大学](https://www.zju.edu.cn)，土木工程
+ * 2016.07-2016.08，科研助理，[香港大学](https://www.hku.hk/)，交通运输工程
+
 # 研究方向
  * 虚拟现实仿真
  * 人因分析
