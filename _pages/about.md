@@ -36,6 +36,16 @@ redirect_from:
  * **Ye, Y.**, Chen, X. (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018. [Poster Presentation]
  * Chen, X., Zhang, S., Shen, K., **Ye, Y.** & Sun, W. (2016) Big Data Driven Simulation-Based Dynamic Traffic Assignment and Empirical Studies. *The 11th Annual Conference of ITS China*, Chongqing, China, November 16-18, 2016. [Best Paper Award]
 
+# 代表性科研项目
+  * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024-2028
+  * 主持，宁波大学人才引进启动项目，自动驾驶条件下港口道路区域人车交互安全研究，2023-2026
+  * 联合主持，华为2012实验室技术课题，城市交叉口全息感知布局与控制策略研究，2022-2023
+  * 联合主持，华为2012实验室技术课题，电动公交智慧排班优化算法研究，2021-2023
+  * 参与，香港特别行政区政府研究资助局面上项目，17201318，Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions, 2019-2021
+  * 参与，香港特别行政区政府研究资助局面上项目，17203017，Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules, 2018-2020
+  * 参与，U21大学联盟项目，Multi-user voice-driven BIM-based navigation system for fire emergency response, 2018-2019
+  * 参与，国家自然科学基金青年科学基金项目，51508505，面向城市交通通道仿真的交通流建模与组织优化，2016-2018
+  * 参与，浙江省智能交通工程技术研究中心开放课题，杭州市主城区道路网中观交通仿真及综合管控优化策略研究，2015-2016
 
 # 通讯地址
 <address>
