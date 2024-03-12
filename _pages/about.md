@@ -30,10 +30,10 @@ redirect_from:
  * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. (SSCI, JCR Q1, Top, IF 6.376)
 
 ## 会议论文与报告
- * Liang, H., **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024. [Poster Presentation]
- * Liang, H., Sun, J., & **Ye, Y.** (2023) Modeling the stochastic pedestrian fundamental diagram with explicit considerations of bidirectional conflict. *The 27th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 11-12, 2023. [Poster Presentation]
- * **Ye, Y.** (2019) Risks to pedestrians in traffic systems with unfamiliar driving rules. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 14-16, 2019. [Oral Presentation]
- * **Ye, Y.**, Chen, X. (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018. [Poster Presentation]
+ * Liang, H., **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024.（墙报展示）
+ * Liang, H., Sun, J., & **Ye, Y.** (2023) Modeling the stochastic pedestrian fundamental diagram with explicit considerations of bidirectional conflict. *The 27th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 11-12, 2023.（墙报展示）
+ * **Ye, Y.** (2019) Risks to pedestrians in traffic systems with unfamiliar driving rules. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China, December 14-16, 2019.（口头报告）
+ * **Ye, Y.**, Chen, X. (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018.（墙报展示）
  * 陈喜群, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016) 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日.（优秀论文奖）
 
 # 代表性科研项目
