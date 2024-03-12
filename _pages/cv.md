@@ -44,7 +44,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-会议论文与演讲
+会议论文与报告
 ======
   <ul>{% for post in site.conferences %}
     {% include archive-single-talk-cv.html %}
@@ -66,6 +66,7 @@ redirect_from:
 ======
 * 期刊审稿人
   * IEEE Transactions on Intelligent Transportation Systems
+  * Transportation Research Part F: Traffic Psychology and Behaviour
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
 * 国际学术组织任职
