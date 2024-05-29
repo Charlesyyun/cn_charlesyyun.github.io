@@ -36,6 +36,7 @@ redirect_from:
   * 主持，宁波大学人才引进启动项目，自动驾驶条件下港口道路区域人车交互安全研究，2023-2026
   * 联合主持，华为2012实验室技术课题，城市交叉口全息感知布局与控制策略研究，2022-2023
   * 联合主持，华为2012实验室技术课题，电动公交智慧排班优化算法研究，2021-2023
+  * 参与，华为2012实验室技术课题，面向智慧高速的仿真平台关键技术，2022-2023
   * 参与，香港特别行政区政府研究资助局面上项目，17201318，Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions, 2019-2021
   * 参与，香港特别行政区政府研究资助局面上项目，17203017，Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules, 2018-2020
   * 参与，U21大学联盟项目，Multi-user voice-driven BIM-based navigation system for fire emergency response, 2018-2019
