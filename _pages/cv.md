@@ -70,6 +70,8 @@ redirect_from:
   * Transportation Research Part F: Traffic Psychology and Behaviour
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
+* 会议审稿人
+  * IEEE International Conference on Intelligent Transportation Systems
 * 学术兼职
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
