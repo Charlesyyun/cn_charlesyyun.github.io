@@ -19,10 +19,10 @@ redirect_from:
    
 # 代表性论文
 ## 期刊论文
- * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P. (2024). Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning. *Travel Behaviour and Society*, 35, 100760. （SSCI, JCR Q2, 影响因子5.200）
- * **Ye, Y.**, Wong, S.C., Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. （SCI, JCR Q1, 中科院Top期刊, 影响因子6.392）
- * **Ye, Y.**, Wong, S.C., Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. （SSCI, JCR Q1, 中科院Top期刊, 影响因子6.376）
- * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. （SSCI, JCR Q1, 中科院Top期刊, 影响因子6.376）
+ * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P. (2024). Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning. *Travel Behaviour and Society*, 35, 100760. （SSCI, JCR Q1, 影响因子5.1）
+ * **Ye, Y.**, Wong, S.C., Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. （SCI, JCR Q1, 中科院Top期刊, 影响因子4.7）
+ * **Ye, Y.**, Wong, S.C., Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
+ * **Ye, Y.**, Wong, S.C., Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
 
 ## 会议论文与报告
  * Liang, H., **Ye, Y.**, & Sun, J. (2024) A micro-macro approach to modeling the flocking of crowd dynamics. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States, January 7-11, 2024.（墙报展示）
