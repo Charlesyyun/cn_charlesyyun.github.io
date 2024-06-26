@@ -72,6 +72,7 @@ redirect_from:
 * 会议审稿人
   * IEEE International Conference on Intelligent Transportation Systems
 * 学术兼职
+  * 宁波市科技局专家库成员
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
   * IEEE Signal Processing Society Member
