@@ -70,7 +70,9 @@ redirect_from:
   * Journal of Transportation Safety & Security
   * Transportmetrica A: Transport Science
 * 会议审稿人
-  * IEEE International Conference on Intelligent Transportation Systems
+  * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
+* 学术活动组织者
+  * IEEE ITSC 2024 Workshop: *Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*
 * 学术兼职
   * 中国人工智能学会会员
   * 宁波市科技局专家库成员
