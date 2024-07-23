@@ -31,6 +31,7 @@ redirect_from:
  * **Ye, Y.**, Chen, X.\* (2018) Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network. *The 97th Annual Meeting of Transportation Research Board, Washington DC*, United States, January 7-11, 2018.（墙报展示）
  * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016) 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日.（优秀论文奖）
 
+
 # 📁 代表性科研项目
   * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024-2028
   * 主持，宁波大学人才引进启动项目，自动驾驶条件下港口道路区域人车交互安全研究，2023-2026
