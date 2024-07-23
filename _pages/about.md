@@ -18,10 +18,10 @@ redirect_from:
    
 # 📝 代表性论文
 ## 📖 期刊论文
- * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.\* (2024). Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning. *Travel Behaviour and Society*, 35, 100760. （SSCI, JCR Q1, 影响因子5.1）
- * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Choi, K.M. (2023). Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules. *Safety Science*, 157, 105924. （SCI, JCR Q1, 中科院Top期刊, 影响因子4.7）
- * **Ye, Y.**, Wong, S.C.\*, Meng, F., & Xu, P. (2021). Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules. *Accident Analysis & Prevention*, 150, 105921. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
- * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach. *Accident Analysis & Prevention*, 142, 105565. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
+ * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.\* (2024). [Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning](https://doi.org/10.1016/j.tbs.2024.100760). *Travel Behaviour and Society*, 35, 100760. （SSCI, JCR Q1, 影响因子5.1）
+ * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Choi, K.M. (2023). [Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules](https://doi.org/10.1016/j.ssci.2022.105924). *Safety Science*, 157, 105924. （SCI, JCR Q1, 中科院Top期刊, 影响因子4.7）
+ * **Ye, Y.**, Wong, S.C.\*, Meng, F., & Xu, P. (2021). [Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules](https://doi.org/10.1016/j.aap.2020.105921). *Accident Analysis & Prevention*, 150, 105921. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
+ * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
 
 ## 💬 会议论文与报告
  * **Ye, Y.**\*, Che, Y., & Liang, H. (2024) Exploring the Influence of Pedestrian Attitude, Propensity, and Risk Perception on Gap Acceptance between Platooning Autonomous Trucks. *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC) (ITSC 2024)*, Edmonton, Canada, September 24-27, 2024. (EI)
