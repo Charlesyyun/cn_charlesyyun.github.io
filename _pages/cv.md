@@ -91,6 +91,7 @@ redirect_from:
   * Transportmetrica A: Transport Science
 * 会议审稿专家
   * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
+  * IEEE International Conference on Vehicular Electronics and Safety
 * 学术活动组织者
   * IEEE ITSC 2024 Workshop: [*Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*](https://sites.google.com/view/workshop-itsc-2024/)
 * 学术组织会员
