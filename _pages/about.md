@@ -30,7 +30,7 @@ redirect_from:
  * Liang, H.\*, Sun, J., & **Ye, Y.** (2023, December 11-12). Modeling the stochastic pedestrian fundamental diagram with explicit considerations of bidirectional conflict [Poster Presentation]. *The 27th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China.
  * **Ye, Y.**\* (2019, December 14-16). Risks to pedestrians in traffic systems with unfamiliar driving rules [Oral Presentation]. *The 24th Hong Kong Society for Transportation Studies International Conference*, Hong Kong, China.
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board*, Washington DC, United States.
- * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016, November 16-18). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
+ * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
 
 
 # 📁 代表性科研项目
