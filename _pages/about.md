@@ -32,6 +32,10 @@ redirect_from:
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board*, Washington DC, United States.
  * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
 
+## 📝 工作论文
+ * **Ye, Y.**, Liang, H., Sun, J., & Chen, X.\* (2024). Distance-Informed Neural Eikonal Solver for Reactive Dynamic User-Equilibrium of Macroscopic Continuum Traffic Flow Model. *IEEE Transactions on Intelligent Transportation Systems*, Under Review. (**SSCI, JCR Q1, Top, IF 7.9**)
+ * Xu, P., Wang, Q., **Ye, Y.**, Wong, S.C., & Zhou, H.\* (2024). Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling. *Travel Behaviour and Society*, Under Review. (**SSCI, JCR Q1, IF 5.1**)
+ * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
 
 # 📁 代表性科研项目
   * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024-2028
