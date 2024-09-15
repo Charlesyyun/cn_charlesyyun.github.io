@@ -24,6 +24,7 @@ redirect_from:
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
 
 ## 💬 会议论文与报告
+* **Ye, Y.**\*, Liang, H., Sun, J., & Chen, X. (2024, December 9-10). Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model [Poster Presentation]. *The 28th International Conference of Hong Kong Society for Transportation Studies*, Hong Kong, China.
 * Li, H., You, L.\*, Xie, J., **Ye, Y.**, & Tan, X. (2024, December 2-6). SmartPL: An integrated approach for platoons driving on mixed-traffic freeways [Poster Presentation]. *The 31st International Conference on Neural Information Processing (ICONIP 2024)*, Auckland, New Zealand. (**CCF C, EI**)
  * **Ye, Y.**\*, Che, Y., & Liang, H. (2024, September 24-27). Exploring the influence of pedestrian attitude, propensity, and risk perception on gap acceptance between platooning autonomous trucks [Poster Presentation]. *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, Edmonton, Canada. (**EI**)
  * Liang, H.\*, **Ye, Y.**, & Sun, J. (2024, January 7-11). A micro-macro approach to modeling the flocking of crowd dynamics [Poster Presentation]. *The 103rd Annual Meeting of Transportation Research Board*, Washington DC, United States.
