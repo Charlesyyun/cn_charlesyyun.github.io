@@ -52,8 +52,24 @@ redirect_from:
   * 联合主持，华为2012实验室技术课题，电动公交智慧排班优化算法研究，2021-2023
 
 # 学术兼职
-  * IEEE ITSC 2024 Workshop: Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles组织者
-  * 
+* 期刊审稿专家
+  * IEEE Transactions on Intelligent Transportation Systems
+  * Transport Policy
+  * Transportation Research Part F: Traffic Psychology and Behaviour
+  * Journal of Transportation Safety & Security
+  * Transportmetrica A: Transport Science
+* 会议审稿专家
+  * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
+  * IEEE International Conference on Vehicular Electronics and Safety
+* 学术活动组织者
+  * IEEE ITSC 2024 Workshop: [*Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles*](https://sites.google.com/view/workshop-itsc-2024/)
+* 学术组织会员
+  * 中国人工智能学会会员
+  * 宁波市科技局专家库成员
+  * IEEE Member
+  * IEEE Intelligent Transportation Systems Society Member
+  * IEEE Signal Processing Society Member
+  * IEEE Vehicular Technology Society Member
 
 # 通讯地址
 <address>
