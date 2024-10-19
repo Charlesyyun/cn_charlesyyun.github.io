@@ -12,11 +12,21 @@ redirect_from:
 更多课题组详情见：[交通安全与智能实验室(TSI Lab)](https://lab.rjmart.cn/10969/tsilab)
 
 # 主要研究方向
- * 虚拟现实仿真
+ * 虚拟现实实验
  * 人因机理
- * 行人行为
  * 交通安全
- * 人车交互
+ * 智能交通系统
+ * 交通仿真与优化
+
+# 教育经历
+ * 2017.09-2021.12：香港大学，土木工程系，交通与运输工程，博士
+ * 2013.09-2017.07: 浙江大学，建筑工程学院，土木工程，学士
+
+# 工作经历
+ * 2023.03-至今：宁波大学，海运学院，副教授，硕士生导师
+ * 2022.09-2023.02：华为技术有限公司，2012实验室，中央媒体技术研究院，高级工程师
+ * 2021.11-2022.09：华为技术有限公司，2012实验室，中央研究院，高级工程师
+ * 2016.07：香港大学，土木工程系，助理研究员
    
 # 代表性论文
 ## 期刊论文
@@ -35,20 +45,15 @@ redirect_from:
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board*, Washington DC, United States.
  * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
 
-## 工作论文
- * **Ye, Y.**, Liang, H., Sun, J., & Chen, X.\* (2024). Distance-Informed Neural Eikonal Solver for Reactive Dynamic User-Equilibrium of Macroscopic Continuum Traffic Flow Model. *IEEE Transactions on Intelligent Transportation Systems*, Under Review. (**SSCI, JCR Q1, Top, IF 7.9**)
- * Xu, P., Wang, Q., **Ye, Y.**, Wong, S.C., & Zhou, H.\* (2024). Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling. *Travel Behaviour and Society*, Under Review. (**SSCI, JCR Q1, IF 5.1**)
- * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
- * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
-
-# 代表性科研项目
+# 主持科研项目
   * 主持，宁波市自然科学基金青年博士创新研究项目，港口自动驾驶车外人机交互界面影响下人车交互机理建模与决策优化，2024-2027
   * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024-2028
   * 联合主持，华为2012实验室技术课题，城市交叉口全息感知布局与控制策略研究，2022-2023
   * 联合主持，华为2012实验室技术课题，电动公交智慧排班优化算法研究，2021-2023
-  * 参与，香港特别行政区政府研究资助局面上项目，17201318，Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions, 2019-2021
-  * 参与，香港特别行政区政府研究资助局面上项目，17203017，Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules, 2018-2020
-  * 参与，国家自然科学基金青年科学基金项目，51508505，面向城市交通通道仿真的交通流建模与组织优化，2016-2018
+
+# 学术兼职
+  * IEEE ITSC 2024 Workshop: Advanced Modeling, Evaluation, and Simulation of Interactions in Mixed Traffic Comprising Pedestrians, Automated Vehicles, and Human-driven Vehicles组织者
+  * 
 
 # 通讯地址
 <address>
