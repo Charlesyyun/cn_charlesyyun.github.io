@@ -41,6 +41,15 @@ redirect_from:
  * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
  * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
 
+# 📁 代表性科研项目
+  * 主持，宁波市自然科学基金青年博士创新研究项目，港口自动驾驶车外人机交互界面影响下人车交互机理建模与决策优化，2024-2027
+  * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024-2028
+  * 联合主持，华为2012实验室技术课题，城市交叉口全息感知布局与控制策略研究，2022-2023
+  * 联合主持，华为2012实验室技术课题，电动公交智慧排班优化算法研究，2021-2023
+  * 参与，香港特别行政区政府研究资助局面上项目，17201318，Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions, 2019-2021
+  * 参与，香港特别行政区政府研究资助局面上项目，17203017，Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules, 2018-2020
+  * 参与，国家自然科学基金青年科学基金项目，51508505，面向城市交通通道仿真的交通流建模与组织优化，2016-2018
+
 # 📬 通讯地址
 <address>
   浙江省宁波市北仑区梅山街道七星南路169号海运学院海运南楼1414，邮编315832
