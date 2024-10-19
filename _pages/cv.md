@@ -72,7 +72,7 @@ redirect_from:
   * 中国港湾奖学金, 2013-2017
   * 杭州商业银行奖学金, 2013-2017
     
-📄 期刊与学位论文
+📄 期刊论文
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
