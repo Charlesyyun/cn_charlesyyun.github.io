@@ -11,21 +11,21 @@ redirect_from:
 
 更多课题组详情见：[交通安全与智能实验室(TSI Lab)](https://lab.rjmart.cn/10969/tsilab)
 
-# 🔥 研究方向
+# 主要研究方向
  * 虚拟现实仿真
  * 人因机理
  * 行人行为
  * 交通安全
  * 人车交互
    
-# 📝 代表性论文
-## 📖 期刊论文
+# 代表性论文
+## 期刊论文
  * **Ye, Y.**, Zheng, P., Liang, H., Chen, X., Wong, S.C., & Xu, P.\* (2024). [Safety or efficiency? Estimating crossing motivations of intoxicated pedestrians by leveraging the inverse reinforcement learning](https://doi.org/10.1016/j.tbs.2024.100760). *Travel Behaviour and Society*, 35, 100760. （SSCI, JCR Q1, 影响因子5.1）
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Choi, K.M. (2023). [Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules](https://doi.org/10.1016/j.ssci.2022.105924). *Safety Science*, 157, 105924. （SCI, JCR Q1, 中科院Top期刊, 影响因子4.7）
  * **Ye, Y.**, Wong, S.C.\*, Meng, F., & Xu, P. (2021). [Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules](https://doi.org/10.1016/j.aap.2020.105921). *Accident Analysis & Prevention*, 150, 105921. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. （SSCI, JCR Q1, 中科院Top期刊, 影响因子5.7）
 
-## 💬 会议论文与报告
+## 会议论文与报告
 * **Ye, Y.**\*, Liang, H., Sun, J., & Chen, X. (2024, December 9-10). Distance-informed Neural Eikonal Solver for reactive dynamic user-equilibrium of macroscopic continuum traffic flow model [Poster Presentation]. *The 28th International Conference of Hong Kong Society for Transportation Studies*, Hong Kong, China.
 * Li, H., You, L.\*, Xie, J., **Ye, Y.**, & Tan, X. (2024, December 2-6). SmartPL: An integrated approach for platoons driving on mixed-traffic freeways [Poster Presentation]. *The 31st International Conference on Neural Information Processing (ICONIP 2024)*, Auckland, New Zealand. (**CCF C, EI**)
  * **Ye, Y.**\*, Che, Y., & Liang, H. (2024, September 24-27). Exploring the influence of pedestrian attitude, propensity, and risk perception on gap acceptance between platooning autonomous trucks [Poster Presentation]. *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, Edmonton, Canada. (**EI**)
@@ -35,13 +35,13 @@ redirect_from:
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board*, Washington DC, United States.
  * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
 
-## 📝 工作论文
+## 工作论文
  * **Ye, Y.**, Liang, H., Sun, J., & Chen, X.\* (2024). Distance-Informed Neural Eikonal Solver for Reactive Dynamic User-Equilibrium of Macroscopic Continuum Traffic Flow Model. *IEEE Transactions on Intelligent Transportation Systems*, Under Review. (**SSCI, JCR Q1, Top, IF 7.9**)
  * Xu, P., Wang, Q., **Ye, Y.**, Wong, S.C., & Zhou, H.\* (2024). Text as data: narrative mining of non-collision injury incidents on public buses by structural topic modeling. *Travel Behaviour and Society*, Under Review. (**SSCI, JCR Q1, IF 5.1**)
  * Li, Z., Che, Y., Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). Is eHMI always helpful? Investigating interference of eHMI on pedestrians interacting with autonomous vehicles on multi-lane streets: A virtual reality-based experiment [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
  * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
 
-# 📁 代表性科研项目
+# 代表性科研项目
   * 主持，宁波市自然科学基金青年博士创新研究项目，港口自动驾驶车外人机交互界面影响下人车交互机理建模与决策优化，2024-2027
   * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024-2028
   * 联合主持，华为2012实验室技术课题，城市交叉口全息感知布局与控制策略研究，2022-2023
