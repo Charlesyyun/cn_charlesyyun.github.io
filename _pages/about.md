@@ -42,6 +42,7 @@ redirect_from:
  * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Under Review]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
 
 # 📁 代表性科研项目
+  * 主持，宁波市自然科学基金青年博士创新研究项目，港口自动驾驶车外人机交互界面影响下人车交互机理建模与决策优化，2024-2027
   * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024-2028
   * 主持，宁波大学人才引进启动项目，自动驾驶条件下港口道路区域人车交互安全研究，2023-2026
   * 联合主持，华为2012实验室技术课题，城市交叉口全息感知布局与控制策略研究，2022-2023
