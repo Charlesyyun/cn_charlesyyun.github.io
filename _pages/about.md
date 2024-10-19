@@ -50,7 +50,7 @@ redirect_from:
   * 参与，香港特别行政区政府研究资助局面上项目，17203017，Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules, 2018-2020
   * 参与，国家自然科学基金青年科学基金项目，51508505，面向城市交通通道仿真的交通流建模与组织优化，2016-2018
 
-# 📬 通讯地址
+# 通讯地址
 <address>
   浙江省宁波市北仑区梅山街道七星南路169号海运学院海运南楼1414，邮编315832
 </address>
