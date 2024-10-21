@@ -45,7 +45,7 @@ redirect_from:
   * 参与，华为2012实验室技术课题，面向智慧高速的仿真平台关键技术，2022.06-2023.06，130万元
   * 参与，香港特别行政区政府研究资助局面上项目，17201318，Dynamic Macroscopic Modeling of Crowd Dynamics under Panic Conditions, 2019.01-2021.12，122万元港币
   * 参与，香港特别行政区政府研究资助局面上项目，17203017，Risks to Pedestrians of Crossing in a Traffic System with Different Driving Rules, 2018.01-2020.12，44.2万元港币
-  * 参与，U21大学联盟项目，Multi-user voice-driven BIM-based navigation system for fire emergency response, 2018.01-2019.01，5000美元
+  * 参与，U21大学联盟项目，Multi-user voice-driven BIM-based navigation system for fire emergency response, 2018.01-2018.12，5000美元
   * 参与，国家自然科学基金青年科学基金项目，51508505，面向城市交通通道仿真的交通流建模与组织优化，2016.01-2018.12，20万元
   * 参与，浙江省智能交通工程技术研究中心开放课题，杭州市主城区道路网中观交通仿真及综合管控优化策略研究，2015.07-2016.06，5万元
   
