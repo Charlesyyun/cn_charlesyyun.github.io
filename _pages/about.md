@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-叶韫，男，[宁波大学](https://www.nbu.edu.cn/)海运学院副教授，硕士生导师。荣获宁波甬江人才工程青年创新人才项目，入选宁波市拔尖人才、宁波大学包玉刚青年拔尖人才、香港大学百年土木未来学者。2013-2021年，曾先后在[浙江大学](https://www.zju.edu.cn/)和[香港大学](https://www.hku.hk/)学习和研究，获得工学学士和博士学位，长期从事交通安全与行为方向研究，研究成果在《*Accident Analysis & Prevention*》、《*Safety Science*》、《*Travel Behaviour and Society*》等交通安全与行为领域顶级期刊发表，并在中国智能交通年会、美国科学院交通研究委员会年会、IEEE智能交通系统年会、香港交通运输研究学会国际研讨会等国内外重要学术会议做报告。2021-2023 年，曾在[华为技术有限公司](https://www.huawei.com/cn/) 2012 实验室中央研究院和中央媒体技术研究所担任高级研究工程师，先后从事智慧交通系统仿真优化和华为终端计算摄影技术研究工作。主持宁波市甬江人才工程项目、宁波市自然科学基金项目、华为技术有限公司技术课题等，参与香港研究资助局面上项目、国家自然科学基金青年科学基金项目、U21大学联盟项目等多项研究项目。担任IEEE会员、IEEE智能交通系统协会会员、IEEE信号处理协会会员和IEEE车载技术协会会员，受邀担任《*IEEE Transactions on Intelligent Transportation Systems*》,《*Transportation Research Part F: Traffic Psychology and Behaviour*》,《*Transport Policy*》,《*Transportmetrica A: Transport Science*》,《*Journal of Transportation Safety & Security*》,《IEEE ITSC》等期刊与会议审稿专家。
+叶韫，男，[宁波大学](https://www.nbu.edu.cn/)海运学院副教授，硕士生导师。荣获宁波甬江人才工程青年创新人才项目，入选宁波市拔尖人才、宁波大学包玉刚青年拔尖人才、香港大学百年土木未来学者。2013-2021年，曾先后在[浙江大学](https://www.zju.edu.cn/)和[香港大学](https://www.hku.hk/)学习和研究，获得工学学士和博士学位，长期从事交通安全与行为方向研究，研究成果在《*Accident Analysis & Prevention*》、《*Safety Science*》、《*Travel Behaviour and Society*》等交通安全与行为领域顶级期刊发表，并在中国智能交通年会、美国科学院交通研究委员会年会、IEEE智能交通系统年会、香港交通运输研究学会国际研讨会等国内外重要学术会议做报告。2021-2023 年，曾在[华为技术有限公司](https://www.huawei.com/cn/) 2012 实验室中央研究院和中央媒体技术研究所担任高级研究工程师，先后从事智慧交通系统仿真优化和华为终端计算摄影技术研究工作。主持浙江省自然科学基金项目、宁波市甬江人才工程项目、宁波市自然科学基金项目、华为技术有限公司技术课题等，参与香港研究资助局面上项目、国家自然科学基金青年科学基金项目、U21大学联盟项目等多项研究项目。担任IEEE会员、IEEE智能交通系统协会会员、IEEE信号处理协会会员和IEEE车载技术协会会员，受邀担任《*IEEE Transactions on Intelligent Transportation Systems*》,《*Transportation Research Part F: Traffic Psychology and Behaviour*》,《*Transport Policy*》,《*Transportmetrica A: Transport Science*》,《*Journal of Transportation Safety & Security*》,《IEEE ITSC》等期刊与会议审稿专家。
 
 更多课题组详情见：[交通安全与智能实验室(TSI Lab)](https://lab.rjmart.cn/10969/tsilab)
 
@@ -46,12 +46,6 @@ redirect_from:
  * **Ye, Y.**\* (2019, December 14-16). Risks to pedestrians in traffic systems with unfamiliar driving rules [Oral Presentation]. *The 24th International Conference of Hong Kong Society for Transportation Studies*, Hong Kong, China.
  * **Ye, Y.**, & Chen, X.\* (2018, January 7-11). Simulation-based optimization for time-of-day coordinated ramp metering of a large-scale urban expressway network [Poster Presentation]. *The 97th Annual Meeting of Transportation Research Board*, Washington DC, United States.
  * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
-
-# 主持科研项目
-  * 主持，宁波市自然科学基金青年博士创新研究项目，港口自动驾驶车外人机交互界面影响下人车交互机理建模与决策优化，2024.06-2027.05，16万元
-  * 主持，宁波市甬江人才工程青年创新人才项目，基于虚拟现实的港口自动驾驶环境下行人-车辆交互行为与风险研究，2024.01-2028.12，100万元
-  * 联合主持，华为2012实验室技术课题，城市交叉口全息感知布局与控制策略研究，2022.08-2023.06，119.1338万元
-  * 联合主持，华为2012实验室技术课题，电动公交智慧排班优化算法研究，2022.01-2023.03，120万元
 
 # 学术兼职
 * 期刊审稿专家
