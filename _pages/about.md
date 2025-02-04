@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-叶韫，男，[宁波大学](https://www.nbu.edu.cn/)海运学院副教授，硕士生导师。荣获宁波甬江人才工程青年创新人才项目，入选宁波市拔尖人才、宁波大学包玉刚青年拔尖人才、香港大学百年土木未来学者。2013-2021年，曾先后在[浙江大学](https://www.zju.edu.cn/)和[香港大学](https://www.hku.hk/)学习和研究，获得工学学士和博士学位，长期从事交通安全与行为方向研究，研究成果在《*Accident Analysis & Prevention*》、《*Safety Science*》、《*Travel Behaviour and Society*》等交通安全与行为领域顶级期刊发表，并在中国智能交通年会、美国科学院交通研究委员会年会、IEEE智能交通系统年会、香港交通运输研究学会国际研讨会等国内外重要学术会议做报告。2021-2023 年，曾在[华为技术有限公司](https://www.huawei.com/cn/) 2012 实验室中央研究院和中央媒体技术研究所担任高级研究工程师，先后从事智慧交通系统仿真优化和华为终端计算摄影技术研究工作。主持浙江省自然科学基金项目、宁波市甬江人才工程项目、宁波市自然科学基金项目、华为技术有限公司技术课题等，参与香港研究资助局面上项目、国家自然科学基金青年科学基金项目、U21大学联盟项目等多项研究项目。担任IEEE会员、IEEE智能交通系统协会会员、IEEE信号处理协会会员和IEEE车载技术协会会员，受邀担任《*IEEE Transactions on Intelligent Transportation Systems*》,《*Transportation Research Part F: Traffic Psychology and Behaviour*》,《*Transport Policy*》,《*Transportmetrica A: Transport Science*》,《*Journal of Transportation Safety & Security*》,《IEEE ITSC》等期刊与会议审稿专家。
+叶韫，男，[宁波大学](https://www.nbu.edu.cn/)海运学院副教授，英国[伦敦帝国理工学院](https://profiles.imperial.ac.uk/yun.ye25)访问学者，硕士生导师。荣获宁波甬江人才工程青年创新人才项目，入选宁波市拔尖人才、宁波大学包玉刚青年拔尖人才、香港大学百年土木未来学者。2013-2021年，曾先后在[浙江大学](https://www.zju.edu.cn/)和[香港大学](https://www.hku.hk/)学习和研究，获得工学学士和博士学位，长期从事交通安全与行为方向研究，研究成果在《*Accident Analysis & Prevention*》、《*Safety Science*》、《*Travel Behaviour and Society*》等交通安全与行为领域顶级期刊发表，并在中国智能交通年会、美国科学院交通研究委员会年会、IEEE智能交通系统年会、香港交通运输研究学会国际研讨会等国内外重要学术会议做报告。2021-2023 年，曾在[华为技术有限公司](https://www.huawei.com/cn/) 2012 实验室中央研究院和中央媒体技术研究所担任高级研究工程师，先后从事智慧交通系统仿真优化和华为终端计算摄影技术研究工作。主持浙江省自然科学基金项目、宁波市甬江人才工程项目、宁波市自然科学基金项目、华为技术有限公司技术课题等，参与香港研究资助局面上项目、国家自然科学基金青年科学基金项目、U21大学联盟项目等多项研究项目。担任IEEE会员、IEEE智能交通系统协会会员、IEEE信号处理协会会员和IEEE车载技术协会会员，受邀担任《*IEEE Transactions on Intelligent Transportation Systems*》,《*Transportation Research Part F: Traffic Psychology and Behaviour*》,《*Transport Policy*》,《*Transportmetrica A: Transport Science*》,《*Journal of Transportation Safety & Security*》,《IEEE ITSC》等期刊与会议审稿专家。
 
 更多课题组详情见：[交通安全与智能实验室(TSI Lab)](https://charlesyyun.github.io/tsilab/)
 
@@ -19,14 +19,15 @@ redirect_from:
  * 交通仿真与优化
 
 # 教育经历
- * 2017.09-2021.12：香港大学，土木工程系，交通与运输工程，博士
- * 2013.09-2017.07: 浙江大学，建筑工程学院，土木工程，学士
+ * 2017.09-2021.12：博士，交通与运输工程，土木工程系，香港大学，中国香港
+ * 2013.09-2017.07: 学士，土木工程，建筑工程学院，浙江大学，中国杭州
 
 # 工作经历
- * 2023.03-至今：宁波大学，海运学院，副教授，硕士生导师
- * 2022.09-2023.02：华为技术有限公司，2012实验室，中央媒体技术研究院，高级工程师
- * 2021.11-2022.09：华为技术有限公司，2012实验室，中央研究院，高级工程师
- * 2016.07：香港大学，土木工程系，助理研究员
+ * 2025.04-至今：访问学者，土木与环境学院，伦敦帝国理工学院，英国伦敦
+ * 2023.03-至今：副教授，硕士生导师，宁波大学，海运学院，中国宁波
+ * 2022.09-2023.02：高级工程师，中央媒体技术研究院，2012实验室，华为技术有限公司，中国深圳
+ * 2021.11-2022.09：高级工程师，中央研究院，2012实验室，华为技术有限公司，中国深圳
+ * 2016.07：助理研究员，土木工程系，香港大学，中国香港
    
 # 代表性论文
 ## 期刊论文
