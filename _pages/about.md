@@ -67,7 +67,6 @@ redirect_from:
   * 宁波市科技局专家库成员
   * IEEE Member
   * IEEE Intelligent Transportation Systems Society Member
-  * IEEE Signal Processing Society Member
   * IEEE Vehicular Technology Society Member
 
 # 通讯地址
