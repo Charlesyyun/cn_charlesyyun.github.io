@@ -37,7 +37,7 @@ redirect_from:
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Choi, K.M. (2023). [Crossing behaviors of drunk pedestrians unfamiliar with local traffic rules](https://doi.org/10.1016/j.ssci.2022.105924). *Safety Science*, 157, 105924. （SCI, JCR Q1, 中科院2区Top期刊, 影响因子4.7）
  * **Ye, Y.**, Wong, S.C.\*, Meng, F., & Xu, P. (2021). [Right-looking habit and maladaptation of pedestrians in areas with unfamiliar driving rules](https://doi.org/10.1016/j.aap.2020.105921). *Accident Analysis & Prevention*, 150, 105921. （SSCI, JCR Q1, 中科院1区Top期刊, 影响因子5.7）
  * **Ye, Y.**, Wong, S.C.\*, Li, Y.C., & Lau, Y.K. (2020). [Risks to pedestrians in traffic systems with unfamiliar driving rules: A virtual reality approach](https://doi.org/10.1016/j.aap.2020.105565). *Accident Analysis & Prevention*, 142, 105565. （SSCI, JCR Q1, 中科院1区Top期刊, 影响因子5.7）
- * Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & **Ye, Y.**\* (2025). Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach. *Alexandria Engineering Journal*, in press. (SCI, JCR Q1, 中科院2区期刊, 影响因子6.2)
+ * Zhou, Q., Chai, B., Guo, Y., Wu, H., Wang, K., & **Ye, Y.**\* (2025). [Feature enhancement based aero-engine lubricant consumption prediction: A BiTCN-BiGRU-Attention approach](https://doi.org/10.1016/j.aej.2025.06.020). *Alexandria Engineering Journal*, 129, 137-167. (SCI, JCR Q1, 中科院2区期刊, 影响因子6.2)
 
 ## 会议论文与报告
 * Zhou, Z., Liang, H., & **Ye, Y.**\* (2025, July 22-25). An improved social force model for pedestrian-vehicle interaction simulation [Poster Presentation]. *The 25th COTA International Conference of Transportation Professionals (CICTP2025)*, Guangzhou, China.
