@@ -102,6 +102,7 @@ redirect_from:
   * Transportmetrica A: Transport Science
   * Journal of King Saud University Computer and Information Sciences
   * Measurement
+  * Applied Soft Computing
 * 会议审稿专家
   * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
   * IEEE International Conference on Vehicular Electronics and Safety
