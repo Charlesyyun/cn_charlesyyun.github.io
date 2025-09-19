@@ -71,6 +71,7 @@ redirect_from:
   * Journal of King Saud University Computer and Information Sciences
   * Measurement
   * Applied Soft Computing
+  * JMIR Public Health and Surveillance
   * 华南理工大学学报(自然科学版)
 * 会议审稿专家
   * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
