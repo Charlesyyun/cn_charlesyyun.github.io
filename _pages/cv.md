@@ -102,6 +102,7 @@ redirect_from:
   * Transportmetrica A: Transport Science
   * Journal of King Saud University Computer and Information Sciences
   * Measurement
+  * Transportation Research Interdisciplinary Perspectives
   * JMIR Public Health and Surveillance
   * Applied Soft Computing
   * 华南理工大学学报(自然科学版)
