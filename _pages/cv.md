@@ -108,6 +108,7 @@ redirect_from:
   * Transportation Research Interdisciplinary Perspectives
   * JMIR Public Health and Surveillance
   * Applied Soft Computing
+  * Nondestructive Testing and Evaluation
   * 华南理工大学学报(自然科学版)
 * 会议审稿专家
   * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
