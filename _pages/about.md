@@ -74,6 +74,7 @@ redirect_from:
   * ACM Transactions on Knowledge Discovery from Data
   * Transportation Research Interdisciplinary Perspectives
   * JMIR Public Health and Surveillance
+  * Nondestructive Testing and Evaluation
   * 华南理工大学学报(自然科学版)
 * 会议审稿专家
   * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
