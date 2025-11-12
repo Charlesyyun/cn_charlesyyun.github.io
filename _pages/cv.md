@@ -95,21 +95,23 @@ redirect_from:
 🤝 社会服务
 ======
 * 期刊审稿专家
-  * IEEE Transactions on Intelligent Transportation Systems
-  * Accident Analysis & Prevention
-  * Transport Policy
-  * Transportation Research Part F: Traffic Psychology and Behaviour
-  * Reliability Engineering & System Safety
-  * Travel Behaviour and Society
-  * Journal of Transportation Safety & Security
-  * Transportmetrica A: Transport Science
-  * Journal of King Saud University Computer and Information Sciences
-  * Measurement
   * ACM Transactions on Knowledge Discovery from Data
-  * Transportation Research Interdisciplinary Perspectives
-  * JMIR Public Health and Surveillance
+  * Accident Analysis & Prevention
   * Applied Soft Computing
+  * IEEE Transactions on Intelligent Transportation Systems
+  * JMIR Public Health and Surveillance
+  * Journal of King Saud University Computer and Information Sciences
+  * Journal of South China University of Technology (Natural Science Edition)
+  * Journal of Transportation Safety & Security
+  * Measurement
+  * Neurocomputing
   * Nondestructive Testing and Evaluation
+  * Reliability Engineering & System Safety
+  * Transport Policy
+  * Transportmetrica A: Transport Science
+  * Travel Behaviour and Society
+  * Transportation Research Interdisciplinary Perspectives
+  * Transportation Research Part F: Traffic Psychology and Behaviour
   * 华南理工大学学报(自然科学版)
 * 会议审稿专家
   * IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC)
