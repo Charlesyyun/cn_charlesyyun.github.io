@@ -112,6 +112,7 @@ redirect_from:
   * Transportmetrica A: Transport Science
   * Travel Behaviour and Society
   * Transportation Research Interdisciplinary Perspectives
+  * Transportation Research Part E: Logistics and Transportation Review
   * Transportation Research Part F: Traffic Psychology and Behaviour
   * 华南理工大学学报(自然科学版)
 * 会议审稿专家
