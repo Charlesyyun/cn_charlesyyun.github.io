@@ -112,6 +112,7 @@ redirect_from:
   * Nondestructive Testing and Evaluation
   * Processes
   * Reliability Engineering & System Safety
+  * Ships and Offshore Structures
   * Transport Policy
   * Transportmetrica A: Transport Science
   * Travel Behaviour and Society
