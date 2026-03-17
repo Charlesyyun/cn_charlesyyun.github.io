@@ -98,6 +98,8 @@ redirect_from:
   
 🤝 社会服务
 ======
+* 客座编辑
+  * [Special Issue: Next-Generation AI and Foundation Models for Transportation Systems](https://www.mdpi.com/journal/futuretransp/special_issues/75RN94DDCM), Future Transportation
 * 期刊审稿专家
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
