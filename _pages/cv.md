@@ -103,6 +103,7 @@ redirect_from:
 * 期刊审稿专家
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
+  * Aerospace
   * Applied Soft Computing
   * Electronics
   * Future Transportation
