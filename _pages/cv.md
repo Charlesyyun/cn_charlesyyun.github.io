@@ -103,11 +103,10 @@ redirect_from:
 * 期刊审稿专家
   * ACM Transactions on Knowledge Discovery from Data
   * Accident Analysis & Prevention
-  * Aerospace
   * Applied Soft Computing
-  * Electronics
-  * Future Transportation
+  * Cybernetics & Systems
   * IEEE Transactions on Intelligent Transportation Systems
+  * International Journal of Human-Computer Interaction
   * JMIR Public Health and Surveillance
   * Journal of King Saud University Computer and Information Sciences
   * Journal of South China University of Technology (Natural Science Edition)
@@ -115,9 +114,9 @@ redirect_from:
   * Measurement
   * Neurocomputing
   * Nondestructive Testing and Evaluation
-  * Processes
   * Reliability Engineering & System Safety
   * Ships and Offshore Structures
+  * Traffic Injury Prevention
   * Transport Policy
   * Transportmetrica A: Transport Science
   * Travel Behaviour and Society
