@@ -98,6 +98,8 @@ redirect_from:
   
 🤝 社会服务
 ======
+* 编辑
+  * [EAI Endorsed Transactions on Human-Computer Interaction](https://publications.eai.eu/index.php/hci)
 * 客座编辑
   * [Special Issue: Next-Generation AI and Foundation Models for Transportation Systems](https://www.mdpi.com/journal/futuretransp/special_issues/75RN94DDCM), Future Transportation
 * 期刊审稿专家
