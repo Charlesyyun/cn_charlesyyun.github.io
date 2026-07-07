@@ -76,6 +76,8 @@ Laplace approximation](https://doi.org/10.1016/j.ress.2026.112864). *Reliability
  * 陈喜群\*, 张帅超, 沈凯, **叶韫**, 孙闻聪 (2016). 大数据驱动的动态交通分配仿真及实证研究. 第十一届中国智能交通年会论文集, 重庆, 2016年11月16-18 日. (**优秀论文奖**)
 
 # 学术兼职
+* 编辑
+  * [EAI Endorsed Transactions on Human-Computer Interaction](https://publications.eai.eu/index.php/hci)
 * 客座编辑
   * [Special Issue: Next-Generation AI and Foundation Models for Transportation Systems](https://www.mdpi.com/journal/futuretransp/special_issues/75RN94DDCM), Future Transportation
 * 期刊审稿专家
